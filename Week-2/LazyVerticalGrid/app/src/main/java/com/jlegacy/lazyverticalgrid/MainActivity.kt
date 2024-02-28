@@ -49,7 +49,7 @@ class MainActivity : ComponentActivity() {
 fun Container(){
     val moviesName: List<String> = listOf<String>( "Jack Sparrow", "Dragon Ball Z","Ratatouille", "Fast & Furious","Murree Sparkletts", "Marine Games")
     val moviesImage: List<Int> = listOf(R.drawable.jack_sparrow, R.drawable.dragon_ball,R.drawable.ratatoulie,R.drawable.fast_furious,R.drawable.marine,R.drawable.one)
-    LazyVerticalGrid(columns = GridCells.Fixed(1) ,
+    LazyVerticalGrid(columns = GridCells.Fixed(2) ,
         contentPadding = PaddingValues(
             start = 12.dp,
             top = 16.dp,
@@ -57,6 +57,7 @@ fun Container(){
             bottom = 16.dp
         ),
         verticalArrangement = Arrangement.spacedBy(10.dp),
+        horizontalArrangement = Arrangement.spacedBy(10.dp),
         content = {
             items(moviesName.size){
                     index -> Card(moviesName[index], moviesImage[index])
@@ -67,10 +68,9 @@ fun Container(){
 
 @Composable
 fun Card(name: String, imageID: Int){
-    Row(
+    Column(
         modifier = Modifier
             .fillMaxWidth(1f)
-            .height(150.dp)
             .clip(shape = RoundedCornerShape(10.dp))
     ){
         Column(
@@ -79,9 +79,9 @@ fun Card(name: String, imageID: Int){
             Image(painter = painterResource(id = imageID),
                 contentDescription = name,
                 modifier = Modifier
-                    .clip(shape = RoundedCornerShape(10.dp, 0.dp, 0.dp, 10.dp))
-                    .height(150.dp)
-                    .width(130.dp),
+                    .clip(shape = RoundedCornerShape(10.dp, 0.dp, 0.dp, 0.dp))
+                    .height(200.dp)
+                    .fillMaxWidth(1f),
                 contentScale = ContentScale.Crop)
         }
         Column(
@@ -94,18 +94,14 @@ fun Card(name: String, imageID: Int){
             Text(text = name,
                 color = Color.Yellow,
                 fontWeight = FontWeight.Bold,
-                fontSize = 24.sp
+                fontSize = 16.sp
             )
-            Row (
+            Column (
                 modifier = Modifier
                     .width(180.dp)
-                    .padding(0.dp, 6.dp, 30.dp, 30.dp),
-                horizontalArrangement = Arrangement.SpaceBetween
+                    .padding(0.dp, 6.dp, 30.dp, 10.dp),
+                verticalArrangement = Arrangement.SpaceBetween
             ){
-                Text(text = "2003",
-                    color = Color.White)
-                Text(text = "111 min",
-                    color = Color.White)
                 Text(text = "Action",
                     color = Color.White)
             }
@@ -114,7 +110,8 @@ fun Card(name: String, imageID: Int){
                 shape = RoundedCornerShape(5.dp),
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color.Yellow
-                )
+                ),
+                modifier = Modifier.fillMaxWidth(1f)
             ) {
                 Text(text = "Watch Trailer",
                     color = Color.Black)
