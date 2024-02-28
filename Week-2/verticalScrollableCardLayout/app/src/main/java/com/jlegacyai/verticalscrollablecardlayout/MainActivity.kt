@@ -67,6 +67,7 @@ fun Container(){
 }
 
 
+
 @Composable
 fun Card(name: String, imageID: Int){
     Row(
@@ -82,7 +83,9 @@ fun Card(name: String, imageID: Int){
                 contentDescription = name,
                 modifier = Modifier
                     .clip(shape = RoundedCornerShape(10.dp, 0.dp, 0.dp, 10.dp))
-                    .height(150.dp))
+                    .height(150.dp)
+                    .width(130.dp),
+                contentScale = ContentScale.Crop)
         }
         Column(
             modifier = Modifier
