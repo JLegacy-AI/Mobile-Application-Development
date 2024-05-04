@@ -12,7 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ContentProviderJokesDatabase"
         tools:targetApi="31">
-        <activity
+
+        <provider
+            android:name=".content_provider.JokesProvider"
+            android:authorities="com.jlegacyai.contentproviderjokesdatabase.jokesprovider"
+            android:exported="true"
+            android:enabled="true">
+        </provider>
+
+
+    <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
@@ -24,5 +33,6 @@
             </intent-filter>
         </activity>
     </application>
+    
 
 </manifest>

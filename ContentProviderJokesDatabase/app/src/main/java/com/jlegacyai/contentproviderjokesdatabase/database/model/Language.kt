@@ -2,20 +2,20 @@ package com.jlegacyai.contentproviderjokesdatabase.database.model
 
 enum class Language(val value: String) {
     /** Czech */
-    CS("cs"),
+    CS("Czech"),
 
     /** German */
-    DE("de"),
+    DE("German"),
 
     /** English */
-    EN("en"),
+    EN("English"),
 
     /** Spanish */
-    ES("es"),
+    ES("Spanish"),
 
     /** French */
-    FR("fr"),
+    FR("French"),
 
     /** Portuguese */
-    PT("pt")
+    PT("Portuguese")
 }
