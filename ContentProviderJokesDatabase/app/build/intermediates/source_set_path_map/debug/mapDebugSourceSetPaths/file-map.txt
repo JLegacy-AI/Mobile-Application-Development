@@ -1,0 +1,52 @@
+com.jlegacyai.contentproviderjokesdatabase.app-material3-1.1.1-0 C:\Users\jamal\.gradle\caches\transforms-4\0064badadb25b311dd3e79d5d4e10df8\transformed\material3-1.1.1\res
+com.jlegacyai.contentproviderjokesdatabase.app-activity-ktx-1.9.0-1 C:\Users\jamal\.gradle\caches\transforms-4\025843bf63f8e45b1d688549e50b0204\transformed\activity-ktx-1.9.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-startup-runtime-1.1.1-2 C:\Users\jamal\.gradle\caches\transforms-4\0666495d8988755c61cdc4a1dba14074\transformed\startup-runtime-1.1.1\res
+com.jlegacyai.contentproviderjokesdatabase.app-savedstate-ktx-1.2.1-3 C:\Users\jamal\.gradle\caches\transforms-4\0702918ebd492d430d8a3e084a1a5110\transformed\savedstate-ktx-1.2.1\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-runtime-2.7.0-4 C:\Users\jamal\.gradle\caches\transforms-4\091530456fb00f3184c6a27bb91b39be\transformed\lifecycle-runtime-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-savedstate-1.2.1-5 C:\Users\jamal\.gradle\caches\transforms-4\0f8b6bf6e5b932662ce1787b77619bd2\transformed\savedstate-1.2.1\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-viewmodel-savedstate-2.7.0-6 C:\Users\jamal\.gradle\caches\transforms-4\1b30fd3114d76992442e27581a287b79\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-runtime-saveable-release-7 C:\Users\jamal\.gradle\caches\transforms-4\202c751d3c0f7758c8f824c3dea666cd\transformed\runtime-saveable-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-core-runtime-2.2.0-8 C:\Users\jamal\.gradle\caches\transforms-4\21c0c365e5b1aa789db1ca271e0a28f4\transformed\core-runtime-2.2.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-navigation-common-2.4.0-9 C:\Users\jamal\.gradle\caches\transforms-4\246e3bf51877cf28f1bd32f373bc13fa\transformed\navigation-common-2.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-activity-1.9.0-10 C:\Users\jamal\.gradle\caches\transforms-4\33111ede7e47a14903d45dfd5ec3c9c8\transformed\activity-1.9.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-runtime-release-11 C:\Users\jamal\.gradle\caches\transforms-4\37ba18819b2819c781ee00f07834a4bd\transformed\runtime-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-customview-poolingcontainer-1.0.0-12 C:\Users\jamal\.gradle\caches\transforms-4\3e4ab8637a4624490c0b4f74db61fa0d\transformed\customview-poolingcontainer-1.0.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-navigation-runtime-ktx-2.4.0-13 C:\Users\jamal\.gradle\caches\transforms-4\4057325162dd28775530c4b4965548aa\transformed\navigation-runtime-ktx-2.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-runtime-ktx-2.7.0-14 C:\Users\jamal\.gradle\caches\transforms-4\4076bfe00f9a916b36347fb0da98eddd\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-foundation-release-15 C:\Users\jamal\.gradle\caches\transforms-4\478b7339224852cb6545a0b77a2109a8\transformed\foundation-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-release-16 C:\Users\jamal\.gradle\caches\transforms-4\52369a02003f9e74dcd4e1e28e9ff12f\transformed\ui-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-viewmodel-ktx-2.7.0-17 C:\Users\jamal\.gradle\caches\transforms-4\5a6317e21c12bfdaf006f19d0a1c4350\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-navigation-compose-2.4.0-18 C:\Users\jamal\.gradle\caches\transforms-4\6bcd87e4a1bf433bd7030498d8881c21\transformed\navigation-compose-2.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-material-ripple-release-19 C:\Users\jamal\.gradle\caches\transforms-4\6eea48647af6b2f53318f5ddd28cbf31\transformed\material-ripple-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-profileinstaller-1.3.1-20 C:\Users\jamal\.gradle\caches\transforms-4\701478b43b2bf2e8ce63280f46f0e767\transformed\profileinstaller-1.3.1\res
+com.jlegacyai.contentproviderjokesdatabase.app-navigation-runtime-2.4.0-21 C:\Users\jamal\.gradle\caches\transforms-4\7903d9e6305f46fa42378e45fd5dfc0a\transformed\navigation-runtime-2.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-material-icons-core-release-22 C:\Users\jamal\.gradle\caches\transforms-4\7c358c7c352220e3b50cb2cf004eda47\transformed\material-icons-core-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-tooling-release-23 C:\Users\jamal\.gradle\caches\transforms-4\846ea0dfc62fdb91b766353af8877e3c\transformed\ui-tooling-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-activity-compose-1.9.0-24 C:\Users\jamal\.gradle\caches\transforms-4\88034911b5076abd13c376becb5d62c2\transformed\activity-compose-1.9.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-tooling-data-release-25 C:\Users\jamal\.gradle\caches\transforms-4\88e8a1360fcfcddb15242db224a393e9\transformed\ui-tooling-data-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-foundation-layout-release-26 C:\Users\jamal\.gradle\caches\transforms-4\960ad08456d1196fb870041915d2d794\transformed\foundation-layout-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-animation-release-27 C:\Users\jamal\.gradle\caches\transforms-4\996054c30566d951432a24743e9743b6\transformed\animation-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-process-2.7.0-28 C:\Users\jamal\.gradle\caches\transforms-4\a4161eca8206a8e732e27e918fa4a5a8\transformed\lifecycle-process-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-tooling-preview-release-29 C:\Users\jamal\.gradle\caches\transforms-4\a608e17321e17c9eed181d2a7783ba7c\transformed\ui-tooling-preview-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-core-1.13.0-30 C:\Users\jamal\.gradle\caches\transforms-4\a85edd376b40676e984c4b34b6b92a1b\transformed\core-1.13.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-emoji2-1.4.0-31 C:\Users\jamal\.gradle\caches\transforms-4\ac19b4105f4ead926384217374a014f0\transformed\emoji2-1.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-animation-core-release-32 C:\Users\jamal\.gradle\caches\transforms-4\b2e058ea52cf59df7b99da0c3ad40294\transformed\animation-core-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-unit-release-33 C:\Users\jamal\.gradle\caches\transforms-4\ba9c0e21bc26c3fb35b85e7b9f822b94\transformed\ui-unit-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-annotation-experimental-1.4.0-34 C:\Users\jamal\.gradle\caches\transforms-4\bb6da00710991f20cc86f91c00bd24c9\transformed\annotation-experimental-1.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-graphics-release-35 C:\Users\jamal\.gradle\caches\transforms-4\bbfaf776393d3fe7c56b335b7655f54d\transformed\ui-graphics-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-geometry-release-36 C:\Users\jamal\.gradle\caches\transforms-4\bc6cd3caef6f0ddf09e7c934ca08e798\transformed\ui-geometry-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-livedata-core-2.7.0-37 C:\Users\jamal\.gradle\caches\transforms-4\c42848bbe77239ebf9e2d0a0a1a87d47\transformed\lifecycle-livedata-core-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-viewmodel-compose-2.7.0-38 C:\Users\jamal\.gradle\caches\transforms-4\daf0666ec2d19be3a43518e44387a5d8\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-test-manifest-1.5.0-39 C:\Users\jamal\.gradle\caches\transforms-4\db606f567f4d35ba6916f99371a9c930\transformed\ui-test-manifest-1.5.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-navigation-common-ktx-2.4.0-40 C:\Users\jamal\.gradle\caches\transforms-4\e17783ea123b3333404f7e2054d5826e\transformed\navigation-common-ktx-2.4.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-lifecycle-viewmodel-2.7.0-41 C:\Users\jamal\.gradle\caches\transforms-4\f0cd31509b55654aef427495b3c941cd\transformed\lifecycle-viewmodel-2.7.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-material-release-42 C:\Users\jamal\.gradle\caches\transforms-4\f0fb90d1c8a9593bd07d1778e38b12e6\transformed\material-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-util-release-43 C:\Users\jamal\.gradle\caches\transforms-4\f5934d7adcd32f3138673b11c75f7105\transformed\ui-util-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-core-ktx-1.13.0-44 C:\Users\jamal\.gradle\caches\transforms-4\fa57be0afe4a25afed59c83344b4c78f\transformed\core-ktx-1.13.0\res
+com.jlegacyai.contentproviderjokesdatabase.app-ui-text-release-45 C:\Users\jamal\.gradle\caches\transforms-4\fce8357c80820075de2e525a49aa09fd\transformed\ui-text-release\res
+com.jlegacyai.contentproviderjokesdatabase.app-resValues-46 D:\Mobile Application Development\ContentProviderJokesDatabase\app\build\generated\res\resValues\debug
+com.jlegacyai.contentproviderjokesdatabase.app-packageDebugResources-47 D:\Mobile Application Development\ContentProviderJokesDatabase\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.jlegacyai.contentproviderjokesdatabase.app-packageDebugResources-48 D:\Mobile Application Development\ContentProviderJokesDatabase\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.jlegacyai.contentproviderjokesdatabase.app-debug-49 D:\Mobile Application Development\ContentProviderJokesDatabase\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.jlegacyai.contentproviderjokesdatabase.app-debug-50 D:\Mobile Application Development\ContentProviderJokesDatabase\app\src\debug\res
+com.jlegacyai.contentproviderjokesdatabase.app-main-51 D:\Mobile Application Development\ContentProviderJokesDatabase\app\src\main\res
